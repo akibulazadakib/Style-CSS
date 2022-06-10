@@ -1,0 +1,99 @@
+h2{
+    color: aliceblue;
+    font-size: 40px;
+    text-align: center;
+    background-color: green;
+    word-spacing: 10px;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}
+#p-1{
+    color: rgb(47, 33, 236);
+    font-size: 18px;
+    word-spacing: 5px;
+    text-align: justify;
+    background-image: url(https://images.hindustantimes.com/rf/image_size_960x540/HT/p2/2019/05/01/Pictures/files-cricket-ban-wc-2019_912c4488-6bd8-11e9-9975-c8a46a094be1.jpg);
+    background-repeat: no-repeat;
+    background-position: top;
+    background-attachment: fixed;
+}
+.p-style{
+    color: blueviolet;
+    font-size: 20px;
+}
+#p-3{
+    color: rgb(197, 71, 13);
+    font-size: 20px;
+    text-decoration-style: wavy;
+}
+#p-4{
+    color: brown;
+    background-color: aliceblue;
+    font-size: 30px;
+    text-align: left;
+}
+#p-5{
+    color: rgb(9, 190, 54);
+    font-size: 20px;
+    text-decoration: underline;
+}
+
+#p-6{
+    color: rgb(9, 190, 54);
+    font-size: 20px;
+    text-decoration: underline;
+}
+
+#p-7{
+    color: rgb(9, 190, 54);
+    font-size: 20px;
+    text-decoration: underline;
+}
+
+#p-8{
+    color: rgb(9, 190, 54);
+    font-size: 20px;
+    text-decoration: underline;
+}
+
+#p-9{
+    color: rgb(9, 190, 54);
+    font-size: 20px;
+    text-decoration: underline;
+}
+
+#p-10{
+    color: rgb(9, 190, 54);
+    font-size: 20px;
+    text-decoration: underline;
+}
+
+#p-11{
+    color: rgb(9, 190, 54);
+    font-size: 20px;
+    text-decoration: underline;
+}
+
+#p-12{
+    color: rgb(9, 190, 54);
+    font-size: 20px;
+    text-decoration: underline;
+}
+
+#p-13{
+    color: rgb(9, 190, 54);
+    font-size: 20px;
+    text-decoration: underline;
+}
+
+#p-14{
+    color: rgb(9, 190, 54);
+    font-size: 20px;
+    text-decoration: underline;
+}
+
+#p-15{
+    color: rgb(9, 190, 54);
+    font-size: 20px;
+    text-decoration: underline;
+}
